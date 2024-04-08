@@ -1,0 +1,30 @@
+.remove-btn {
+    margin-left: 5px;
+  }
+
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #inputContainer {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+  
+  li.done {
+    text-decoration: line-through;
+    background-color: #f0f0f0;
+  }
+  
